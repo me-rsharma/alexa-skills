@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "vscode alexa skill",
+      "invocationName": "vscode alexa skills",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
